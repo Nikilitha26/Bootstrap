@@ -1,0 +1,15 @@
+.search-bar {
+    display: flex;
+    flex-direction: column;
+  }
+#button{
+    width: 150px;
+}
+#noti{
+    color: maroon;
+    background-color: #FFCCCC;
+    border: none;
+}
+#main{
+    font-weight: normal;
+}
